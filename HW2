@@ -69,12 +69,12 @@ else:
     
 # Problem 7
 
-l = []
+l_3 = []
 n = int(input("Enter n: "))
 for number in range (1, n+1):
     if number % 7 == 0:
-       l.append(number)
-print(l)
+       l_3.append(number)
+print(l_3)
 
 
 
